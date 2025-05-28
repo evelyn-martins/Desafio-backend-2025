@@ -69,7 +69,3 @@ Você tem até segunda, dia 2 de junho, às 23:59 para entregar o projeto.
 ### 📦 **Entrega**
 
 Para entregar o projeto, basta fazer um fork deste repositório que iremos analisar sua solução!
-
----
-
-

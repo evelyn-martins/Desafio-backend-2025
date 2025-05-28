@@ -25,7 +25,7 @@ Desenvolver uma API RESTful para gerenciar produtos, clientes e pedidos de uma l
 
   * `id`
   * `nome`
-  * telefone
+  * `telefone`
 
 #### 🧾 Pedidos
 
@@ -65,3 +65,11 @@ Desenvolver uma API RESTful para gerenciar produtos, clientes e pedidos de uma l
 Você tem até segunda, dia 2 de junho, às 23:59 para entregar o projeto.
 
 ---
+
+### 📦 **Entrega**
+
+Para entregar o projeto, basta fazer um fork deste repositório que iremos analisar sua solução!
+
+---
+
+

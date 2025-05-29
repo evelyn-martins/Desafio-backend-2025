@@ -48,7 +48,7 @@ Desenvolver uma API RESTful para gerenciar produtos, clientes e pedidos de uma l
 * Relacionamentos entre tabelas (cliente → pedidos, pedido → produtos)
 * Código organizado e de fácil entendimento
 * Instruções de como executar o projeto no README
-* A API pode ser feita em Node.js, Nest.js ou Go 
+* A API pode ser feita em Node([express](https://expressjs.com)),Node([Nest.js](https://nestjs.com/)) ou [Go](https://go.dev/)
 
 ---
 

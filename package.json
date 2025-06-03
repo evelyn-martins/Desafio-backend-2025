@@ -1,0 +1,15 @@
+{
+  "name": "desafio-backend-2025",
+  "version": "1.0.0",
+  "description": "Desenvolver uma API RESTful para gerenciar produtos, clientes e pedidos de uma loja fictícia. A aplicação deve permitir o cadastro, consulta e atualização dessas entidades, além de relacionar pedidos com seus respectivos produtos e clientes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.0"
+  }
+}
